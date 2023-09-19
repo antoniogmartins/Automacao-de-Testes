@@ -6,8 +6,6 @@
       
       Veja mais: https://github.com/antoniogmartins/postman
 
-🚀 Testes de Serviços
-
    🔖 RestAssured - Testes de Serviçõs(UI) incluindo o SmokeTests
 
       Veja mais: Não Iniciado
