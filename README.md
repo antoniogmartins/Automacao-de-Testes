@@ -1,6 +1,6 @@
 # AUTOMACAO DE TESTES
 
-🚀 Testes de Serviços - Smoke Tests 
+🚀 TESTES DE SERVIÇOS - Smoke Tests 
 
    🔖 Postman - SmokeTests
       
@@ -10,13 +10,13 @@
 
       => Veja mais: Não Iniciado
 
-🚀 Testes de Interface - Testes Funcionais 
+🚀 TESTES FUNCIONAIS - Testes na Interface 
 
    🔖 Selenium com Java
    
       => Veja mais: Não Iniciado
   
-🚀 Testes de Performance
+🚀 TESTES DE PERFORMANCE
 
    🔖 K6 - Stress/Carga/Pico incluindo o SmokeTests
 
