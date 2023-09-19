@@ -1,4 +1,4 @@
-# BATERIA DE TESTES
+# AUTOMACAO DE TESTES
 
 🚀 Testes de Serviços - Smoke Tests 
 
