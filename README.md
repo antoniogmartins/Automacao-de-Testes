@@ -14,7 +14,7 @@
 
    🔖 Selenium com Java
    
-      => Veja mais: https://github.com/antoniogmartins/postman
+      => Veja mais: Não Iniciado
   
 🚀 Testes de Performance
 
