@@ -14,11 +14,11 @@
   
 🚀 Testes de Performance
 
-   🔖 K6 - Testes de Performance (Stress/Carga/Pico) incluindo o SmokeTests
+   🔖 K6 - Stress/Carga/Pico incluindo o SmokeTests
 
       Veja mais: https://github.com/antoniogmartins/k6
 
-   🔖 Jmeter - Testes de Performance (Stress/Carga/Pico) incluindo o SmokeTests
+   🔖 Jmeter - Stress/Carga/Pico incluindo o SmokeTests
    
       Veja mais: Não Iniciado
 
