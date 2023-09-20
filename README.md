@@ -21,9 +21,8 @@
 
 🚀 TESTES DE SERVIÇOS (API) - Smoke Tests 
 
-   🔖 Postman
-   
-      => [Veja mais](http://github.com/antoniogmartins/postman)
+   🔖 Postman 
+  => [Veja mais](http://github.com/antoniogmartins/postman)
 
    🔖 Python
    
