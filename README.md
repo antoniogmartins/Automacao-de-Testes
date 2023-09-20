@@ -26,7 +26,7 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
       => [Veja mais](http://github.com/antoniogmartins/postman)
 
   :key:Python
-      => Veja mais: **Em desenvolvimento**
+      => [Veja mais:](https://github.com/antoniogmartins/pythonrestapi)
 
   :key:RestAssured - Testes de Serviçõs(UI) incluindo o SmokeTests
       => Veja mais: Não Iniciado
