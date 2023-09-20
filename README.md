@@ -10,11 +10,11 @@
 
 :computer: Na Esfera Profissional:
 
-  => Busco participar no desenvolvimento de soluções e/ou produtos e realizar entregas com qualidade e de acordo com o que se espera
+  ##### :key: Busco participar no desenvolvimento de soluções e/ou produtos e realizar entregas com qualidade e de acordo com o que se espera
 
-  => Poder agregar com meu conhecimento/experiencia da redução de bugs e de custos durante a fase de todo ciclo de desenvolvimento de um software
+  #### :key: Poder agregar com meu conhecimento/experiencia da redução de bugs e de custos durante a fase de todo ciclo de desenvolvimento de um software
    
-  => Desenvolver meu conhecimento/capacitacao/pratica em automacao de testes e desenvolvimento de software, assim como a arquitetura/gerencia de qa
+  #### :key: Desenvolver meu conhecimento/capacitacao/pratica em automacao de testes e desenvolvimento de software, assim como a arquitetura/gerencia de qa
 
 -----------------------------------------------------------------------------------------------------------
 # Automações desenvolvidas
