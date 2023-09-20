@@ -4,7 +4,7 @@
 
    🔖 Postman - SmokeTests
       
-      => Veja mais: "[x]"https://github.com/antoniogmartins/postman
+      => [Veja mais](http://github.com/antoniogmartins/postman)
 
    🔖 RestAssured - Testes de Serviçõs(UI) incluindo o SmokeTests
 
