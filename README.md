@@ -19,10 +19,13 @@
 #### Veja alguns conteudos que criei relacionados a Automação de Testes de Software
 
 
-🚀 TESTES DE SERVIÇOS - Smoke Tests 
+🚀 TESTES DE SERVIÇOS (API) - Smoke Tests 
 
    🔖 Postman - SmokeTests
       => [Veja mais](http://github.com/antoniogmartins/postman)
+
+   🔖 Python - SmokeTests
+      => Veja mais: Não Iniciado
 
    🔖 RestAssured - Testes de Serviçõs(UI) incluindo o SmokeTests
 
