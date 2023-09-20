@@ -3,7 +3,6 @@
 🚀 TESTES DE SERVIÇOS - Smoke Tests 
 
    🔖 Postman - SmokeTests
-      
       => [Veja mais](http://github.com/antoniogmartins/postman)
 
    🔖 RestAssured - Testes de Serviçõs(UI) incluindo o SmokeTests
@@ -19,8 +18,7 @@
 🚀 TESTES DE PERFORMANCE
 
    🔖 K6 - Stress/Carga/Pico incluindo o SmokeTests
-
-      => Veja mais: https://github.com/antoniogmartins/k6
+      => [Veja mais](http://github.com/antoniogmartins/K6)
 
    🔖 Jmeter - Stress/Carga/Pico incluindo o SmokeTests
    
