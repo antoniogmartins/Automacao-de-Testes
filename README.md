@@ -21,31 +21,31 @@
 
 🚀 TESTES DE SERVIÇOS (API) - Smoke Tests 
 
-     🔖 Postman 
-  => [Veja mais](http://github.com/antoniogmartins/postman)
+  🔖 Postman 
+      => [Veja mais](http://github.com/antoniogmartins/postman)
 
-     🔖 Python
+  🔖 Python
       => Veja mais: Não Iniciado
 
-     🔖 RestAssured - Testes de Serviçõs(UI) incluindo o SmokeTests
+  🔖 RestAssured - Testes de Serviçõs(UI) incluindo o SmokeTests
       => Veja mais: Não Iniciado
 
 🚀 TESTES FUNCIONAIS - Testes na Interface 
 
-     🔖 Selenium com Java
+  🔖 Selenium com Java
       => Veja mais: Não Iniciado
 
-     🔖 Cypress
+  🔖 Cypress
       => Veja mais: Não Iniciado
   
-     🔖 Playwright
+  🔖 Playwright
       => Veja mais: Não Iniciado
 
 🚀 TESTES DE PERFORMANCE
 
-     🔖 K6 - Stress/Carga/Pico incluindo o SmokeTests
+  🔖 K6 - Stress/Carga/Pico incluindo o SmokeTests
       => [Veja mais](http://github.com/antoniogmartins/K6)
 
-     🔖 Jmeter - Stress/Carga/Pico incluindo o SmokeTests
+  🔖 Jmeter - Stress/Carga/Pico incluindo o SmokeTests
       => Veja mais: Não Iniciado
 
