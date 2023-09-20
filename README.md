@@ -25,7 +25,7 @@
       => [Veja mais](http://github.com/antoniogmartins/postman)
 
   :key:Python
-      => Veja mais: Não Iniciado
+      => Veja mais: **Em desenvolvimento**
 
   :key:RestAssured - Testes de Serviçõs(UI) incluindo o SmokeTests
       => Veja mais: Não Iniciado
