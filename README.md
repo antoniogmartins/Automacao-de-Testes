@@ -6,9 +6,9 @@
 
 👨🏻‍💻 Atualmente mais focado o aprendizado/aperfeiçoamento sobre Automação de Testes
 
+:mailbox_closed: Email: agmartins2018@gmail.com
 
-
-:department_store: Na Esfera Profissional:
+:computer: Na Esfera Profissional:
 
   => Busco participar no desenvolvimento de soluções e/ou produtos e realizar entregas com qualidade e de acordo com o que se espera
 
