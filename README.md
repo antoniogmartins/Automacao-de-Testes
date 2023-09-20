@@ -2,7 +2,7 @@
 
 => Sou formado em sistemas de informação
 
-=> Hoje busco participar no desenvolvimento de soluções e/ou produtos e realizar entregas com qualidade e de acordo com o que se espera
+=> Busco participar no desenvolvimento de soluções e/ou produtos e realizar entregas com qualidade e de acordo com o que se espera
 
 => Poder agregar com meu conhecimento/esperiencia da redução de bugs e de custos durante a fase de todo ciclo de desenvolvimento de um software
    
