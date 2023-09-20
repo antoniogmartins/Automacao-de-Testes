@@ -21,10 +21,12 @@
 
 🚀 TESTES DE SERVIÇOS (API) - Smoke Tests 
 
-   🔖 Postman - SmokeTests
+   🔖 Postman
+   
       => [Veja mais](http://github.com/antoniogmartins/postman)
 
-   🔖 Python - SmokeTests
+   🔖 Python
+   
       => Veja mais: Não Iniciado
 
    🔖 RestAssured - Testes de Serviçõs(UI) incluindo o SmokeTests
