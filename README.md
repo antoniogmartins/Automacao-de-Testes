@@ -8,12 +8,11 @@
 
 :mailbox_closed: Email: agmartins2018@gmail.com
 
+-----------------------------------------------------------------------------------------------------------
 :computer: Na Esfera Profissional:
 
   ##### :key: Busco participar no desenvolvimento de soluções e/ou produtos e realizar entregas com qualidade e de acordo com o que se espera
-  
   ##### :key: Poder agregar com meu conhecimento/experiencia da redução de bugs e de custos durante a fase de todo ciclo de desenvolvimento de um software
-  
   ##### :key: Desenvolver meu conhecimento/capacitacao/pratica em automacao de testes e desenvolvimento de software, assim como a arquitetura/gerencia de qa
 
 -----------------------------------------------------------------------------------------------------------
