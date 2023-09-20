@@ -30,6 +30,10 @@
   :key:RestAssured - Testes de Serviçõs(UI) incluindo o SmokeTests
       => Veja mais: Não Iniciado
 
+  :key:Robot Framework
+      => Veja mais: Não Iniciado
+
+
 🚀 TESTES FUNCIONAIS - Testes na Interface 
 
   :key:Selenium com Java
@@ -44,6 +48,10 @@
   :key:Python
       => Veja mais: Não Iniciado
 
+  :key:Robot Framework
+      => Veja mais: Não Iniciado
+      
+
 🚀 TESTES DE PERFORMANCE
 
   :key:K6 - Stress/Carga/Pico incluindo o SmokeTests
@@ -52,3 +60,7 @@
   :key:Jmeter - Stress/Carga/Pico incluindo o SmokeTests
       => Veja mais: Não Iniciado
 
+
+🚀 TESTES MOBILE
+  :key: Appium
+      => Veja mais: Não Iniciado
