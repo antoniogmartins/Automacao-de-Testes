@@ -18,7 +18,6 @@
 -----------------------------------------------------------------------------------------------------------
 #### Veja alguns conteudos que criei relacionados a Automações de Testes de Software
 
-🚀 AUTOMACAO DE TESTES
 
 🚀 TESTES DE SERVIÇOS - Smoke Tests 
 
