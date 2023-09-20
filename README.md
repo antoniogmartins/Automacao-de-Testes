@@ -25,25 +25,27 @@
   => [Veja mais](http://github.com/antoniogmartins/postman)
 
    🔖 Python
-   
       => Veja mais: Não Iniciado
 
    🔖 RestAssured - Testes de Serviçõs(UI) incluindo o SmokeTests
-
       => Veja mais: Não Iniciado
 
 🚀 TESTES FUNCIONAIS - Testes na Interface 
 
    🔖 Selenium com Java
-   
+      => Veja mais: Não Iniciado
+
+   🔖 Cypress
       => Veja mais: Não Iniciado
   
+   🔖 Playwright
+      => Veja mais: Não Iniciado
+
 🚀 TESTES DE PERFORMANCE
 
    🔖 K6 - Stress/Carga/Pico incluindo o SmokeTests
       => [Veja mais](http://github.com/antoniogmartins/K6)
 
    🔖 Jmeter - Stress/Carga/Pico incluindo o SmokeTests
-   
       => Veja mais: Não Iniciado
 
