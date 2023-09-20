@@ -63,9 +63,11 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
 
 
 🚀 TESTES MOBILE
+
   :key:Appium
       => Veja mais: Não Iniciado
 
 🚀 MASSA DE DADOS PARA TESTES
+
   :key:Massa de Dados
       => Veja mais: Não Iniciado
