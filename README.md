@@ -1,11 +1,12 @@
-# Objetivos:
-   => Participar no desenvolvimento de soluções e/ou produtos e realizar entregas com qualidade e de acordo com o que se espera
+Olá meu nome é Antonio
+
+=> Sou formado em sistemas de informação
+
+=> Hoje busco participar no desenvolvimento de soluções e/ou produtos e realizar entregas com qualidade e de acordo com o que se espera
+
+=> Poder agregar com meu conhecimento/esperiencia da redução de bugs e de custos durante a fase de todo ciclo de desenvolvimento de um software
    
-   => Agregar com meu conhecimento/esperiencia da redução de bugs e de custos durante a fase de todo ciclo de desenvolvimento de um software
-   
-   => Desenvolver meu conhecimento/pratica em automacao de testes e desenvolvimento de software
-   
-   => Desenvolver meu conhecimento/pratica da otenção de conhecimento/experiencia voltada a arquitetura/gerencia de qa
+=> Desenvolver meu conhecimento/pratica em automacao de testes e desenvolvimento de softwar assim como voltado a arquitetura/gerencia de qa
 
 -----------------------------------------------------------------------------------------------------------
 
