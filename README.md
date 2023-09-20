@@ -17,7 +17,7 @@
   => Desenvolver meu conhecimento/capacitacao/pratica em automacao de testes e desenvolvimento de software, assim como a arquitetura/gerencia de qa
 
 -----------------------------------------------------------------------------------------------------------
-# Algumas automações desenvolvidas
+# Automações desenvolvidas
 
 🚀 AUTOMACAO DE TESTES
 
