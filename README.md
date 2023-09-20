@@ -17,7 +17,8 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 #### Veja alguns conteudos que criei relacionados a Automação de Testes de Software
-
+Durante o desenvolvimento dos scripts de testes foram utilziadas algumas linguagens de programação entre elas: python, java, 
+assim com frameworks(restassured, cucumber) e ferramentas(jmeter, postman, k6)
 
 🚀 TESTES DE SERVIÇOS (API) - Smoke Tests 
 
