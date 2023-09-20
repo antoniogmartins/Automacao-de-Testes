@@ -4,13 +4,13 @@
 
 👨🏻‍💻 Gosto de fazer atividades fisicas, ler, dançar, passear e ir ao cinema/teatro 
 
-:department_store: Na Esfera Profissional
+:department_store: Na Esfera Profissional:
 
-:department_store: Busco participar no desenvolvimento de soluções e/ou produtos e realizar entregas com qualidade e de acordo com o que se espera
+  => Busco participar no desenvolvimento de soluções e/ou produtos e realizar entregas com qualidade e de acordo com o que se espera
 
-:department_store: Poder agregar com meu conhecimento/experiencia da redução de bugs e de custos durante a fase de todo ciclo de desenvolvimento de um software
+  => Poder agregar com meu conhecimento/experiencia da redução de bugs e de custos durante a fase de todo ciclo de desenvolvimento de um software
    
-:department_store: Desenvolver meu conhecimento/capacitacao/pratica em automacao de testes e desenvolvimento de software, assim como a arquitetura/gerencia de qa
+  => Desenvolver meu conhecimento/capacitacao/pratica em automacao de testes e desenvolvimento de software, assim como a arquitetura/gerencia de qa
 
 -----------------------------------------------------------------------------------------------------------
 # Algumas demonstrações do meu conhecimento
