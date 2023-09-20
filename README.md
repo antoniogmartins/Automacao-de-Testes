@@ -41,6 +41,9 @@
   :key:Playwright
       => Veja mais: Não Iniciado
 
+  :key:Python
+      => Veja mais: Não Iniciado
+
 🚀 TESTES DE PERFORMANCE
 
   :key:K6 - Stress/Carga/Pico incluindo o SmokeTests
