@@ -46,7 +46,7 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
   :key:Playwright
       => Veja mais: Não Iniciado
 
-  :key:Python
+  :key:Selenium com Python 
       => Veja mais: Não Iniciado
 
   :key:Robot Framework
