@@ -16,7 +16,7 @@
   ##### :key: Desenvolver meu conhecimento/capacitacao/pratica em automacao de testes e desenvolvimento de software, assim como a arquitetura/gerencia de qa
 
 -----------------------------------------------------------------------------------------------------------
-# Automações desenvolvidas
+#### Veja alguns conteudos que criei relacionados a Automações de Testes de Software
 
 🚀 AUTOMACAO DE TESTES
 
