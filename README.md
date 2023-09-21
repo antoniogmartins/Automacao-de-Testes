@@ -69,6 +69,12 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
   :key:Jmeter - Stress/Carga/Pico incluindo o SmokeTests
       => Veja mais: Não Iniciado
 
+  :key:Locust
+      => Veja mais: Não Iniciado
+
+  :key:Gatling
+      => Veja mais: Não Iniciado
+
 
 🚀 TESTES MOBILE
 
