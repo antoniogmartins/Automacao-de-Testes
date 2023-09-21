@@ -50,7 +50,7 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
   :key:Selenium com Kotlin
       => Veja mais: Não Iniciado
 
-  :key:Selenium com pring Boot
+  :key:Selenium com Spring Boot
       => Veja mais: Não Iniciado
 
   :key:Selenium com Java e com Bdd (Cucumber)
