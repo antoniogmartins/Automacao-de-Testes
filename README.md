@@ -99,3 +99,9 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
 
 => Monitoria e Controle: Splunk, Newrelic, Runscope, Docker, Kubernet
 
+=> Criação de dublês de teste (mocks, stubs, fakes, spies, dummies);
+
+=> Continuous integration, continuous delivery, continuous testing e cultura DevOps.(JENKIN)
+
+
+
