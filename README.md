@@ -79,6 +79,8 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
       => Veja mais: Não Iniciado
 
 🚀 FUTURO
+
 => Httparty, 
-=> Monitoria e COntrole: Splunk
+
+=> Monitoria e Controle: Splunk, Newrelic, Runscope
 
