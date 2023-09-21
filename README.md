@@ -37,7 +37,7 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
   :key:Robot Framework
       => Veja mais: Não Iniciado
 
-  :key:TypeScript
+  :key:Jest(TypeScript)
       => Veja mais: Não Iniciado
 
 
