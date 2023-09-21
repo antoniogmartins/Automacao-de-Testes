@@ -91,7 +91,7 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
 
 🚀 TESTES MOBILE
 
-  :key:Appium (flutter)
+  :key:Appium (flutter, PYTHON)
       => Veja mais: Não Iniciado
 
 🚀 TESTES DE CONTRATO
