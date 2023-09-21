@@ -40,13 +40,16 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
   :key:Selenium com Java
       => Veja mais: Não Iniciado
 
+  :key:Selenium com Python 
+      => Veja mais: Não Iniciado
+
+  :key:Selenium com c#(Specflow) 
+      => Veja mais: Não Iniciado
+
   :key:Cypress
       => Veja mais: Não Iniciado
   
   :key:Playwright
-      => Veja mais: Não Iniciado
-
-  :key:Selenium com Python 
       => Veja mais: Não Iniciado
 
   :key:Robot Framework
