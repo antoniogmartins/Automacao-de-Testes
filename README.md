@@ -80,6 +80,10 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
   :key:Massa de Dados
       => Veja mais: Não Iniciado
 
+  :key:Banco de Dados Nao Relacional(MOngodb)
+      => Veja mais: Não Iniciado
+      
+
 🚀 FUTURO
 
 => Httparty, 
