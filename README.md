@@ -40,6 +40,9 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
   :key:Selenium com Java
       => Veja mais: Não Iniciado
 
+  :key:Selenium com Java e com Bdd (Cucumber)
+      => Veja mais: Não Iniciado
+
   :key:Selenium com Python 
       => Veja mais: Não Iniciado
 
@@ -74,3 +77,8 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
 
   :key:Massa de Dados
       => Veja mais: Não Iniciado
+
+🚀 FUTURO
+=> Httparty, 
+=> Monitoria e COntrole: Splunk
+
