@@ -28,16 +28,29 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
   :key:Python (Em andamento)
       => [Veja mais:](https://github.com/antoniogmartins/pythonrestapi)
 
-  :key:RestAssured - Testes de Serviçõs(UI) incluindo o SmokeTests
+  :key:RestAssured(Java) - Testes de Serviços(UI) incluindo o SmokeTests
+      => Veja mais: Não Iniciado
+
+  :key:RestAssured(Kotlin) - Testes de Serviços(UI) incluindo o SmokeTests
       => Veja mais: Não Iniciado
 
   :key:Robot Framework
       => Veja mais: Não Iniciado
 
+  :key:TypeScript
+      => Veja mais: Não Iniciado
+
+
 
 🚀 TESTES FUNCIONAIS - Testes na Interface 
 
   :key:Selenium com Java
+      => Veja mais: Não Iniciado
+
+  :key:Selenium com Kotlin
+      => Veja mais: Não Iniciado
+
+  :key:Selenium com pring Boot
       => Veja mais: Não Iniciado
 
   :key:Selenium com Java e com Bdd (Cucumber)
@@ -78,7 +91,7 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
 
 🚀 TESTES MOBILE
 
-  :key:Appium
+  :key:Appium (flutter)
       => Veja mais: Não Iniciado
 
 🚀 TESTES DE CONTRATO
