@@ -94,5 +94,5 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
 
 => Httparty, 
 
-=> Monitoria e Controle: Splunk, Newrelic, Runscope
+=> Monitoria e Controle: Splunk, Newrelic, Runscope, Docker, Kubernet
 
