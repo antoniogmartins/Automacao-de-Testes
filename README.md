@@ -28,8 +28,8 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
   :key:Python 
       => [Veja mais:](https://github.com/antoniogmartins/pythonrestapi)
 
-  :key:RestAssured(Java) - Testes de Serviços(UI) incluindo o SmokeTests (Em andamento)
-      => Veja mais: Não Iniciado
+  :key:RestAssured(Java) - Testes de Serviços(UI) incluindo o SmokeTests 
+      => Veja mais: ## (Em andamento)
 
   :key:RestAssured(Kotlin) - Testes de Serviços(UI) incluindo o SmokeTests
       => Veja mais: Não Iniciado
