@@ -116,5 +116,6 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
 
 => Continuous integration, continuous delivery, continuous testing e cultura DevOps.(JENKIN)
 
+=> Tools: Katalon
 
 
