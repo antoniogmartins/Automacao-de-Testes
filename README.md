@@ -88,6 +88,9 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
   :key:Gatling
       => Veja mais: Não Iniciado
 
+  :key:Scala Test
+      => Veja mais: Não Iniciado
+
 
 🚀 TESTES MOBILE
 
