@@ -127,7 +127,11 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
 
 => Criação de dublês de teste (mocks, stubs, fakes, spies, dummies);
 
-=> Continuous integration, continuous delivery, continuous testing e cultura DevOps.(JENKIN)
+=> Continuous integration, continuous delivery, continuous testing e cultura DevOps.Jenkin
+
+=> ELK Stack (ElasticSearch, Logstash e Kibana);
+
+=> Testes Nao Funcionais (Gatling, Hey, Load Runner);
 
 => Tools: Katalon
 
