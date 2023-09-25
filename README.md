@@ -1,12 +1,18 @@
-# Olá meu nome é Antonio
+# Sejam bem-vindos!!!
+Olá, me chamo Antonio, 
 
-👨🏻‍💻 Sou formado em sistemas de informação
+👨🏻‍💻 Profissional graduado em Sistemas de Informação, Pós-Graduação em Análise e Gerencia de Projetos de Sistemas com experiência em metodologia ageis, desde a concepção e levantamento de requisitos(historias), uso de bdd, criação de plano de testes, execução de cenários de testes; criação/manutenção de scripts de testes automatizados(Java, Python, K6, Jmeter, Junit, Postman, Selenium, RestAssured), execução de testes funcionais, de aceitação, exploratórios, regressão e de performance(carga/stress/pico) integrados a AWS; execução de testes manuais/automatizados em desktop/web, mobile e aplicativos (iOS e Android); Identificação e geração de relatos de defeitos (bugs); Analise de Logs, Criação de Massa de Dados para realização dos testes, Criador de relatórios de ocorrências, relatórios gerenciais, performance e indicadores de qualidade (erros/falhas), Geração/Analise de Métricas; Elaboração/manutenção de documentação de testes (Jira - Confluence) e Inglês Intermediário
 
-👨🏻‍💻 Gosto de fazer atividades fisicas, ler, dançar, passear e ir ao cinema/teatro 
+👨🏻‍💻 Tenho como objetivo atuar como Analista de Testes de Software/QA com foco em Automação de Testes, para que seja possível colocar em prática todos os conhecimentos adquiridos das experiências profissionais e acadêmicas, de maneira a aprimorar minha performance e expertise profissional com intuito de auxiliar os colaboradores da empresa no cumprimento de metas e objetivos e entregar produtos/serviços com mais qualidade e dentro do que se espera.
 
-👨🏻‍💻 Atualmente mais focado o aprendizado/aperfeiçoamento sobre Automação de Testes
+👨🏻‍💻 Falando de mim: dedicado, comprometido, motivado pela vontade de aprender, praticar, adquirir novas habilidades, compartilhar, e ir em busca sempre de alcançar bons resultados e agregar bastante ao time e ao produto/serviço a ser desenvolvido.
 
-:mailbox_closed: Email: agmartins2018@gmail.com
+*** Segue meu portfolio, onde demonstro a criação de scripts de testes automatizados na cobertura de sistemas e apis, utilizando varias linguagens de programação, frameworks e ferramentas, incluindo a integração e o uso de cloud (aws)
+
+=> https://github.com/antoniogmartins/
+=> Email: antonio.martins@yahoo.com.br/agmartins2018@gmail.com;
+=> Tel: (55)21-99310-1678
+=> #OpentoWork
 
 -----------------------------------------------------------------------------------------------------------
 :computer: Na Esfera Profissional:
