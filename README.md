@@ -3,9 +3,15 @@ Olá, me chamo Antonio,
 
 👨🏻‍💻 Profissional graduado em Sistemas de Informação, Pós-Graduação em Análise e Gerencia de Projetos de Sistemas com experiência em metodologia ageis, desde a concepção e levantamento de requisitos(historias), uso de bdd, criação de plano de testes, execução de cenários de testes; criação/manutenção de scripts de testes automatizados(Java, Python, K6, Jmeter, Junit, Postman, Selenium, RestAssured), execução de testes funcionais, de aceitação, exploratórios, regressão e de performance(carga/stress/pico) integrados a AWS; execução de testes manuais/automatizados em desktop/web, mobile e aplicativos (iOS e Android); Identificação e geração de relatos de defeitos (bugs); Analise de Logs, Criação de Massa de Dados para realização dos testes, Criador de relatórios de ocorrências, relatórios gerenciais, performance e indicadores de qualidade (erros/falhas), Geração/Analise de Métricas; Elaboração/manutenção de documentação de testes (Jira - Confluence) e Inglês Intermediário
 
-👨🏻‍💻 Tenho como objetivo atuar como Analista de Testes de Software/QA com foco em Automação de Testes, para que seja possível colocar em prática todos os conhecimentos adquiridos das experiências profissionais e acadêmicas, de maneira a aprimorar minha performance e expertise profissional com intuito de auxiliar os colaboradores da empresa no cumprimento de metas e objetivos e entregar produtos/serviços com mais qualidade e dentro do que se espera.
+👨🏻‍💻 Tenho como objetivo atuar como Analista de Testes de Software/QA com foco em Automação de Testes, para que seja possível colocar em prática todos os conhecimentos adquiridos das experiências profissionais e acadêmicas, de maneira a aprimorar minha performance e expertise profissional com intuito de: 
+          
+          => Contribuir no Desenvolvimento de soluções e/ou produtos e realizar entregas com qualidade e de acordo com o que se espera
+          => Poder agregar com meu conhecimento/experiencia na redução de bugs e dos custos durante a fase de todo ciclo de desenvolvimento de um software
+          => Desenvolver meu conhecimento/capacitacao/pratica em automacao de testes e desenvolvimento de software, assim como a arquitetura/gerencia de qa
 
 👨🏻‍💻 Falando de mim: dedicado, comprometido, motivado pela vontade de aprender, praticar, adquirir novas habilidades, compartilhar, e ir em busca sempre de alcançar bons resultados e agregar bastante ao time e ao produto/serviço a ser desenvolvido.
+
+👨🏻‍💻 Gsoto de sair para curtir a vida.
 
 *** Segue meu portfolio, onde demonstro a criação de scripts de testes automatizados na cobertura de sistemas e apis, utilizando varias linguagens de programação, frameworks e ferramentas, incluindo a integração e o uso de cloud (aws)
 
@@ -17,9 +23,6 @@ Olá, me chamo Antonio,
 -----------------------------------------------------------------------------------------------------------
 :computer: Na Esfera Profissional:
 
-  ##### :key: Busco participar no desenvolvimento de soluções e/ou produtos e realizar entregas com qualidade e de acordo com o que se espera
-  ##### :key: Poder agregar com meu conhecimento/experiencia na redução de bugs e dos custos durante a fase de todo ciclo de desenvolvimento de um software
-  ##### :key: Desenvolver meu conhecimento/capacitacao/pratica em automacao de testes e desenvolvimento de software, assim como a arquitetura/gerencia de qa
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 #### Veja alguns conteudos que criei relacionados a Automação de Testes de Software
