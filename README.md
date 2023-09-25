@@ -6,7 +6,7 @@ Olá, me chamo Antonio,
 👨🏻‍💻 Tenho como objetivo atuar como Analista de Testes de Software/QA com foco em Automação de Testes, para que seja possível colocar em prática todos os conhecimentos adquiridos das experiências profissionais e acadêmicas, de maneira a aprimorar minha performance e expertise profissional com intuito de:
 
 ⭐ Contribuir no Desenvolvimento de soluções e/ou produtos e realizar entregas com qualidade e de acordo com o que se espera
-⭐ Poder agregar com meu conhecimento/experiencia na redução de bugs e dos custos durante a fase de todo ciclo de desenvolvimento de um software   
+⭐ Poder agregar com meu conhecimento/experiencia na redução de bugs e dos custos durante a fase de todo ciclo de desenvolvimento de um software
 ⭐ Desenvolver meu conhecimento/capacitacao/pratica em automacao de testes e desenvolvimento de software, assim como a arquitetura/gerencia de qa   
           
 
