@@ -19,9 +19,8 @@ Olá, me chamo Antonio,
 *** Segue meu portfolio, onde demonstro a criação de scripts de testes automatizados na cobertura de sistemas e apis, utilizando varias linguagens de programação, frameworks e ferramentas, incluindo a integração e o uso de cloud (aws)
 
 => https://github.com/antoniogmartins/
-=> Email: antonio.martins@yahoo.com.br ou 
-   Email: agmartins2018@gmail.com;
-=> Tel: (55)21-99310-1678
+=> Email:agmartins2018@gmail.com;
+=> Tel:(+55)21-99310-1678
 
 ⭐ **OpentoWork**
 
