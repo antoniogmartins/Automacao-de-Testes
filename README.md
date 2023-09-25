@@ -41,98 +41,9 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
   :key:RestAssured(Java) - Testes de Serviços(UI) incluindo o SmokeTests 
       **=> Veja mais: Em andamento**
 
-  :key:RestAssured(Kotlin) - Testes de Serviços(UI) incluindo o SmokeTests
-      => Veja mais: Não Iniciado
-
-  :key:Robot Framework
-      => Veja mais: Não Iniciado
-
-  :key:Jest(TypeScript)
-      => Veja mais: Não Iniciado
-
-
-
-🚀 TESTES FUNCIONAIS - Testes na Interface 
-
-  :key:Selenium com Java
-      => Veja mais: Não Iniciado
-
-  :key:Selenium com Kotlin
-      => Veja mais: Não Iniciado
-
-  :key:Selenium com Spring Boot
-      => Veja mais: Não Iniciado
-
-  :key:Selenium com Java e com Bdd (Cucumber)
-      => Veja mais: Não Iniciado
-
-  :key:Selenium com Python 
-      => Veja mais: Não Iniciado
-
-  :key:Selenium com c#(Specflow) 
-      => Veja mais: Não Iniciado
-
-  :key:Cypress
-      => Veja mais: Não Iniciado
-  
-  :key:Playwright
-      => Veja mais: Não Iniciado
-
-  :key:Robot Framework
-      => Veja mais: Não Iniciado
-
-  :key:Cypress
-      => Veja mais: Não Iniciado
-
-🚀 TESTES DE PERFORMANCE
+ 🚀 TESTES DE PERFORMANCE
 
   :key:K6 - Stress/Carga/Pico incluindo o SmokeTests
       => [Veja mais](http://github.com/antoniogmartins/K6)
-
-  :key:Jmeter - Stress/Carga/Pico incluindo o SmokeTests
-      => Veja mais: Não Iniciado
-
-  :key:Locust
-      => Veja mais: Não Iniciado
-
-  :key:Gatling
-      => Veja mais: Não Iniciado
-
-  :key:Scala Test
-      => Veja mais: Não Iniciado
-
-
-🚀 TESTES MOBILE
-
-  :key:Appium (flutter, PYTHON)
-      => Veja mais: Não Iniciado
-
-🚀 TESTES DE CONTRATO
-
-
-🚀 MASSA DE DADOS PARA TESTES
-
-  :key:Massa de Dados
-      => Veja mais: Não Iniciado
-
-  :key:Banco de Dados Nao Relacional(MOngodb)
-      => Veja mais: Não Iniciado
-      
-
-🚀 FUTURO
-
-=> Httparty, 
-
-=> Monitoria e Controle: Splunk, Newrelic, Runscope, Docker, Kubernet
-
-=> Criação de dublês de teste (mocks, stubs, fakes, spies, dummies);
-
-=> Continuous integration, continuous delivery, continuous testing e cultura DevOps.Jenkin
-
-=> ELK Stack (ElasticSearch, Logstash e Kibana);
-
-=> Testes Nao Funcionais (Gatling, Hey, Load Runner);
-
-=> Tools: Katalon
 
 
