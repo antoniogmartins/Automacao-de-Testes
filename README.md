@@ -24,10 +24,10 @@ Olá, me chamo Antonio,
 ⭐ **OpentoWork**
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-*** Abaixo apresneto meu portfolio, onde demonstro a criação de scripts de testes automatizados na cobertura de sistemas e apis, utilizando varias linguagens de programação, frameworks e ferramentas, incluindo a integração e o uso de cloud (aws)
+*** Abaixo apresento meu portfolio, onde demonstro a criação de scripts de testes automatizados na cobertura de sistemas e apis, utilizando varias linguagens de programação, frameworks e ferramentas, incluindo a integração e o uso de cloud (aws)
 
 #### Veja alguns conteudos que criei relacionados a Automação de Testes de Software
-Durante o desenvolvimento dos scripts de testes foram utilziadas algumas linguagens de programação entre elas: python, java, 
+Durante o desenvolvimento dos scripts de testes foram utilizadas algumas linguagens de programação entre elas: python, java, 
 assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, postman, k6)
 
 🚀 TESTES DE SERVIÇOS (API) - Smoke Tests 
