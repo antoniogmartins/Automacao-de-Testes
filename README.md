@@ -14,12 +14,9 @@ Olá, me chamo Antonio,
 
 👨🏻‍💻 Falando de mim: dedicado, comprometido, motivado pela vontade de aprender, praticar, adquirir novas habilidades, compartilhar, e ir em busca sempre de alcançar bons resultados e agregar bastante ao time e ao produto/serviço a ser desenvolvido.
 
-👨🏻‍💻 Gsoto de sair para curtir a vida.
+👨🏻‍💻 Gosto de sair para curtir a vida.
 
-*** Segue meu portfolio, onde demonstro a criação de scripts de testes automatizados na cobertura de sistemas e apis, utilizando varias linguagens de programação, frameworks e ferramentas, incluindo a integração e o uso de cloud (aws)
-
-=> https://github.com/antoniogmartins/
-
+👨🏻‍💻 Contatos:
 => Email:agmartins2018@gmail.com;
 
 => Tel:(+55)21-99310-1678
@@ -27,6 +24,8 @@ Olá, me chamo Antonio,
 ⭐ **OpentoWork**
 
 ---------------------------------------------------------------------------------------------------------------------------------------
+*** Abaixo apresneto meu portfolio, onde demonstro a criação de scripts de testes automatizados na cobertura de sistemas e apis, utilizando varias linguagens de programação, frameworks e ferramentas, incluindo a integração e o uso de cloud (aws)
+
 #### Veja alguns conteudos que criei relacionados a Automação de Testes de Software
 Durante o desenvolvimento dos scripts de testes foram utilziadas algumas linguagens de programação entre elas: python, java, 
 assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, postman, k6)
