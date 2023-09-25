@@ -21,11 +21,8 @@ Olá, me chamo Antonio,
 => https://github.com/antoniogmartins/
 => Email: antonio.martins@yahoo.com.br/agmartins2018@gmail.com;
 => Tel: (55)21-99310-1678
-=> #OpentoWork
 
------------------------------------------------------------------------------------------------------------
-:computer: Na Esfera Profissional:
-
+⭐ **OpentoWork**
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 #### Veja alguns conteudos que criei relacionados a Automação de Testes de Software
