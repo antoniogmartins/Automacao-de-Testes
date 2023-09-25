@@ -3,11 +3,10 @@ Olá, me chamo Antonio,
 
 👨🏻‍💻 Profissional graduado em Sistemas de Informação, Pós-Graduação em Análise e Gerencia de Projetos de Sistemas com experiência em metodologia ageis, desde a concepção e levantamento de requisitos(historias), uso de bdd, criação de plano de testes, execução de cenários de testes; criação/manutenção de scripts de testes automatizados(Java, Python, K6, Jmeter, Junit, Postman, Selenium, RestAssured), execução de testes funcionais, de aceitação, exploratórios, regressão e de performance(carga/stress/pico) integrados a AWS; execução de testes manuais/automatizados em desktop/web, mobile e aplicativos (iOS e Android); Identificação e geração de relatos de defeitos (bugs); Analise de Logs, Criação de Massa de Dados para realização dos testes, Criador de relatórios de ocorrências, relatórios gerenciais, performance e indicadores de qualidade (erros/falhas), Geração/Analise de Métricas; Elaboração/manutenção de documentação de testes (Jira - Confluence) e Inglês Intermediário
 
-👨🏻‍💻 Tenho como objetivo atuar como Analista de Testes de Software/QA com foco em Automação de Testes, para que seja possível colocar em prática todos os conhecimentos adquiridos das experiências profissionais e acadêmicas, de maneira a aprimorar minha performance e expertise profissional com intuito de: 
-          
-    => Contribuir no Desenvolvimento de soluções e/ou produtos e realizar entregas com qualidade e de acordo com o que se espera
-    => Poder agregar com meu conhecimento/experiencia na redução de bugs e dos custos durante a fase de todo ciclo de desenvolvimento de um software
-    => Desenvolver meu conhecimento/capacitacao/pratica em automacao de testes e desenvolvimento de software, assim como a arquitetura/gerencia de qa
+👨🏻‍💻 Tenho como objetivo atuar como Analista de Testes de Software/QA com foco em Automação de Testes, para que seja possível colocar em prática todos os conhecimentos adquiridos das experiências profissionais e acadêmicas, de maneira a aprimorar minha performance e expertise profissional com intuito de:
+=> Contribuir no Desenvolvimento de soluções e/ou produtos e realizar entregas com qualidade e de acordo com o que se espera
+=> Poder agregar com meu conhecimento/experiencia na redução de bugs e dos custos durante a fase de todo ciclo de desenvolvimento de um software
+=> Desenvolver meu conhecimento/capacitacao/pratica em automacao de testes e desenvolvimento de software, assim como a arquitetura/gerencia de qa
           
 
 👨🏻‍💻 Falando de mim: dedicado, comprometido, motivado pela vontade de aprender, praticar, adquirir novas habilidades, compartilhar, e ir em busca sempre de alcançar bons resultados e agregar bastante ao time e ao produto/serviço a ser desenvolvido.
