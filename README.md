@@ -38,8 +38,8 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
   :key:Python 
       => [Veja mais:](https://github.com/antoniogmartins/pythonrestapi)
 
-  :key:RestAssured(Java) - Testes de Serviços(UI) incluindo o SmokeTests 
-      **=> Veja mais: Em andamento**
+  :key:RestAssured(Java) - Testes de Serviços(UI) incluindo o SmokeTests
+      =>  [Veja mais: ](https://github.com/antoniogmartins/java_apirest)
 
  🚀 TESTES DE PERFORMANCE
 
