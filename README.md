@@ -30,7 +30,7 @@ Olá, me chamo Antonio,
 Durante o desenvolvimento dos scripts de testes foram utilizadas algumas linguagens de programação entre elas: python, java, 
 assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, postman, k6)
 
-🚀 TESTES DE SERVIÇOS (API) - Smoke Tests 
+🚀 TESTES DE SERVIÇOS (API) 
 
   :key:Robot FRamework => Veja mais: **Em andamento**
 
