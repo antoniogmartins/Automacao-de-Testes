@@ -32,7 +32,7 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
 
 🚀 TESTES DE SERVIÇOS (API) - Smoke Tests 
 
-  :key:Robot FRamework => Veja mais: **Em andamento **
+  :key:Robot FRamework => Veja mais: **Em andamento**
 
   :key:Postman 
       => [Veja mais](http://github.com/antoniogmartins/postman)
