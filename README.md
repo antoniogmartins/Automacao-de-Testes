@@ -32,6 +32,7 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
 
 🚀 TESTES DE SERVIÇOS (API) - Smoke Tests 
 ```diff
+! - oI
   :key:Postman 
       => [Veja mais](http://github.com/antoniogmartins/postman)
 
