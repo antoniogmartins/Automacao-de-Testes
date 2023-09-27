@@ -32,7 +32,7 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
 
 🚀 TESTES DE SERVIÇOS (API) - Smoke Tests 
 ```diff
-  ! - Robot Framework => Veja mais: **Em andamento**
+! - Robot FRamework => Veja mais: **Em andamento **
 
   :key:Postman 
       => [Veja mais](http://github.com/antoniogmartins/postman)
@@ -43,8 +43,6 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
   :key:RestAssured(Java) - Testes de Serviços(UI) incluindo o SmokeTests
       =>  [Veja mais: ](https://github.com/antoniogmartins/java_apirest)
 
-
-  
 
  🚀 TESTES DE PERFORMANCE
 
