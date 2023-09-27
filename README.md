@@ -31,8 +31,8 @@ Durante o desenvolvimento dos scripts de testes foram utilizadas algumas linguag
 assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, postman, k6)
 
 🚀 TESTES DE SERVIÇOS (API) - Smoke Tests 
-```diff
-! - Robot FRamework => Veja mais: **Em andamento **
+
+  :key:Robot FRamework => Veja mais: **Em andamento **
 
   :key:Postman 
       => [Veja mais](http://github.com/antoniogmartins/postman)
