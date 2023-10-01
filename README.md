@@ -12,7 +12,7 @@ Olá, me chamo Antonio,
 ⭐ Desenvolver meu conhecimento/capacitacao/pratica em automacao de testes e desenvolvimento de software, assim como a arquitetura/gerencia de qa   
           
 
-👨🏻‍💻 Falando de mim: dedicado, comprometido, motivado pela vontade de aprender, praticar, adquirir novas habilidades, compartilhar, e ir em busca sempre de alcançar bons resultados e agregar bastante ao time e ao produto/serviço a ser desenvolvido.
+👨🏻‍💻 Falando de mim: comprometido, motivado pela vontade de aprender, evoluir, praticar, adquirir novas habilidades, experiencias, compartilhar, e ir em busca sempre de alcançar bons resultados e agregar bastante ao time e ao produto/serviço a ser desenvolvido.
 
 👨🏻‍💻 Gosto de sair para curtir a vida.
 
