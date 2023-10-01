@@ -21,8 +21,6 @@ Olá, me chamo Antonio,
 
 => Tel:(+55)21-99310-1678
 
-⭐ **OpentoWork**
-
 ---------------------------------------------------------------------------------------------------------------------------------------
 *** Abaixo apresento meu portfolio, onde demonstro a criação de scripts de testes automatizados na cobertura de sistemas e apis, utilizando varias linguagens de programação, frameworks e ferramentas, incluindo a integração e o uso de cloud (aws)
 
