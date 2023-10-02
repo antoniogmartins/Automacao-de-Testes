@@ -29,8 +29,10 @@ Durante o desenvolvimento dos scripts de testes foram utilizadas algumas linguag
 assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, postman, k6)
 
 🚀 TESTES DE SERVIÇOS (API) 
+   : Key: Analisando => Veja mais: **Em andamento**
 
-  :key:Robot Framework => Veja mais: **Em andamento**
+  :key:Robot Framework (Api Rest)
+      => [Veja mais](https://github.com/antoniogmartins/robotframeworkapirest)
 
   :key:Postman 
       => [Veja mais](http://github.com/antoniogmartins/postman)
