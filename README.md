@@ -28,8 +28,9 @@ Olá, me chamo Antonio,
 Durante o desenvolvimento dos scripts de testes foram utilizadas algumas linguagens de programação entre elas: python, java, 
 assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, postman, k6)
 
-🚀 TESTES DE SERVIÇOS (API) 
-   : Key: Analisando qual sera a proxima feature a ser desenvolvida, rs => Veja mais: **Em andamento**
+🚀 TESTES DE SERVIÇOS (API)
+
+  => Analisando qual sera a proxima feature a ser desenvolvida, rs => Veja mais: **Em andamento**
 
 **:key:Robot Framework (Api Rest)** (Saiu do forno em 02.10.23)**
       => [Veja mais](https://github.com/antoniogmartins/robotframeworkapirest)
