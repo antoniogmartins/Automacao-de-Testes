@@ -34,7 +34,7 @@ Próxima feature criando scripts de testes automatizados a ser desenvolvida -> a
   :key:Cypress (criado em 06.10.23)
       => [Veja mais](https://github.com/antoniogmartins/cypress)
 
-  :key:Robot Framework (Criado em 02.10.23)
+  :key:Robot Framework 
       => [Veja mais](https://github.com/antoniogmartins/robotframeworkapirest)
 
   :key:Postman 
