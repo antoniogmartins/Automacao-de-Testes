@@ -29,7 +29,7 @@ Durante o desenvolvimento dos scripts de testes foram utilizadas algumas linguag
 assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, postman, k6)
 
 🚀 TESTES DE SERVIÇOS (API)
-Próxima feature a ser desenvolvida -> analisando
+Próxima feature criando scripts de testes automatizados a ser desenvolvida -> analisando
 
   :key:Cypress (Api rest) (criado em 06.10.23)
       => [Veja mais](https://github.com/antoniogmartins/cypress)
