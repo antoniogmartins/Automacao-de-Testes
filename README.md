@@ -31,7 +31,6 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
 🚀 TESTES DE SERVIÇOS (API)
 Próxima feature a ser desenvolvida -> analisando
 
-
 **:Key:Cypress (Api rest)**
       => [Veja mais](https://github.com/antoniogmartins/cypress)
       
