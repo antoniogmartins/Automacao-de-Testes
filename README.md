@@ -28,13 +28,13 @@ Olá, me chamo Antonio,
 Durante o desenvolvimento dos scripts de testes foram utilizadas algumas linguagens de programação entre elas: python, java, 
 assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, postman, k6)
 
-🚀 TESTES DE SERVIÇOS (API)
+🚀 TESTES DE SERVIÇOS (API REST)
 Próxima feature criando scripts de testes automatizados a ser desenvolvida -> analisando
 
-  :key:Cypress (Api rest) (criado em 06.10.23)
+  :key:Cypress (criado em 06.10.23)
       => [Veja mais](https://github.com/antoniogmartins/cypress)
 
-  :key:Robot Framework (Api Rest) (Saiu do forno em 02.10.23)
+  :key:Robot Framework (Criado em 02.10.23)
       => [Veja mais](https://github.com/antoniogmartins/robotframeworkapirest)
 
   :key:Postman 
