@@ -31,10 +31,10 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
 🚀 TESTES DE SERVIÇOS (API)
 Próxima feature a ser desenvolvida -> analisando
 
-**:Key:Cypress (Api rest)**
+  :key:Cypress (Api rest) (criado em 06.10.23)
       => [Veja mais](https://github.com/antoniogmartins/cypress)
-      
-**:key:Robot Framework (Api Rest) (Saiu do forno em 02.10.23)**
+
+  :key:Robot Framework (Api Rest) (Saiu do forno em 02.10.23)
       => [Veja mais](https://github.com/antoniogmartins/robotframeworkapirest)
 
   :key:Postman 
