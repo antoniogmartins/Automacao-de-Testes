@@ -43,7 +43,7 @@ Próxima feature criando scripts de testes automatizados a ser desenvolvida -> a
   :key:Python 
       => [Veja mais:](https://github.com/antoniogmartins/pythonrestapi)
 
-  :key:RestAssured(Java) - Testes de Serviços(UI) incluindo o SmokeTests
+  :key:RestAssured(Java)
       =>  [Veja mais: ](https://github.com/antoniogmartins/java_apirest)
 
 
