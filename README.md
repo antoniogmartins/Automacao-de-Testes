@@ -31,7 +31,7 @@ assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, post
 🚀 TESTES DE SERVIÇOS (API REST)
 Próxima feature criando scripts de testes automatizados a ser desenvolvida -> analisando
 
-  :key:Cypress (criado em 06.10.23)
+  :key:Cypress
       => [Veja mais](https://github.com/antoniogmartins/cypress)
 
   :key:Robot Framework 
@@ -51,5 +51,10 @@ Próxima feature criando scripts de testes automatizados a ser desenvolvida -> a
 
   :key:K6 - Stress/Carga/Pico incluindo o SmokeTests
       => [Veja mais](http://github.com/antoniogmartins/K6)
+
+
+  :key:Jmeter - Stress/Carga/Pico incluindo o SmokeTests
+      => [Veja mais](http://github.com/antoniogmartins/Jmeter)
+      
 
 
