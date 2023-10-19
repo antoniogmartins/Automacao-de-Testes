@@ -54,7 +54,7 @@ Próxima feature criando scripts de testes automatizados a ser desenvolvida -> a
 
 
   :key:Jmeter - Stress/Carga/Pico incluindo o SmokeTests
-      => [Veja mais](http://github.com/antoniogmartins/Jmeter)
+      => [Veja mais](https://github.com/antoniogmartins/JmeterServices)
       
 
 
