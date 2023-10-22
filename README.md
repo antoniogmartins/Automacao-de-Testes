@@ -28,26 +28,22 @@ Olá, me chamo Antonio,
 Durante o desenvolvimento dos scripts de testes foram utilizadas algumas linguagens de programação entre elas: python, java, 
 assim com frameworks(selenium, restassured, cucumber, robotframework, cypress, postman) e ferramentas(k6, jmeter)
 
-🚀 TESTES DE SERVIÇOS (API REST)
-Próxima feature criando scripts de testes automatizados a ser desenvolvida -> analisando
+==>Próxima feature criando scripts de testes automatizados a ser desenvolvida -> analisando
+
+🚀 TESTES DE SERVIÇOS (API REST) [Detalhes](http://github.com/antoniogmartins/Services)
 
   :key:Cypress
-      => [Veja mais](https://github.com/antoniogmartins/cypress)
 
   :key:Robot Framework 
-      => [Veja mais](https://github.com/antoniogmartins/robotframeworkapirest)
 
   :key:Postman 
-      => [Veja mais](http://github.com/antoniogmartins/postman)
 
   :key:Python 
-      => [Veja mais:](https://github.com/antoniogmartins/pythonrestapi)
 
   :key:RestAssured(Java)
-      =>  [Veja mais: ](https://github.com/antoniogmartins/java_apirest)
 
 
- 🚀 TESTES DE PERFORMANCE [Detalhes](http://github.com/antoniogmartins/Performance)
+🚀 TESTES DE PERFORMANCE [Detalhes](http://github.com/antoniogmartins/Performance)
 
   :key:K6 - Stress/Carga/Pico incluindo o SmokeTests
   
