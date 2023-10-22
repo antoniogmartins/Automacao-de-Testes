@@ -26,7 +26,7 @@ Olá, me chamo Antonio,
 
 #### Veja alguns conteudos que criei relacionados a Automação de Testes de Software
 Durante o desenvolvimento dos scripts de testes foram utilizadas algumas linguagens de programação entre elas: python, java, 
-assim com frameworks(selenium, restassured, cucumber) e ferramentas(jmeter, postman, k6)
+assim com frameworks(selenium, restassured, cucumber, robotframework, cypress, postman) e ferramentas(k6, jmeter)
 
 🚀 TESTES DE SERVIÇOS (API REST)
 Próxima feature criando scripts de testes automatizados a ser desenvolvida -> analisando
