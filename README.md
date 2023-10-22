@@ -50,6 +50,7 @@ Próxima feature criando scripts de testes automatizados a ser desenvolvida -> a
  🚀 TESTES DE PERFORMANCE [Detalhes](http://github.com/antoniogmartins/Performance)
 
   :key:K6 - Stress/Carga/Pico incluindo o SmokeTests
+  
   :key:Jmeter - Stress/Carga/Pico incluindo o SmokeTests
       
 
