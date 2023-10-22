@@ -47,14 +47,10 @@ Próxima feature criando scripts de testes automatizados a ser desenvolvida -> a
       =>  [Veja mais: ](https://github.com/antoniogmartins/java_apirest)
 
 
- 🚀 TESTES DE PERFORMANCE
+ 🚀 TESTES DE PERFORMANCE [Detalhes](http://github.com/antoniogmartins/Performance)
 
   :key:K6 - Stress/Carga/Pico incluindo o SmokeTests
-      => [Veja mais](http://github.com/antoniogmartins/K6)
-
-
   :key:Jmeter - Stress/Carga/Pico incluindo o SmokeTests
-      => [Veja mais](https://github.com/antoniogmartins/JmeterServices)
       
 
 
