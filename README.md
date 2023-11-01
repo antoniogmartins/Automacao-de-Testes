@@ -30,6 +30,8 @@ assim com frameworks(selenium, restassured, cucumber, robotframework, cypress, p
 
 🚀 TESTES DE SERVIÇOS (API REST) [Detalhes](http://github.com/antoniogmartins/Services)
 
+  :key:Jest/SuperTest
+  
   :key:Cypress
 
   :key:Robot Framework 
