@@ -26,6 +26,8 @@ Olá, me chamo Antonio,
 Durante o desenvolvimento dos scripts de testes foram utilizadas algumas linguagens de programação entre elas: python, java, 
 assim com frameworks(selenium, restassured, cucumber, robotframework, cypress, postman) e ferramentas(k6, jmeter)
 
+=> Nos scripts de testes aqui criados - automatizados nao foi considerado: algum tipo de: "padrão de projeto", algum tipo de mascaramento do token/login/senha. É apenas uma pequena demonstração
+
 ==>Próxima feature criando scripts de testes automatizados a ser desenvolvida -> analisando
 
 🚀 TESTES DE SERVIÇOS (API REST) [Detalhes](http://github.com/antoniogmartins/Services)
