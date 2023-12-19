@@ -47,9 +47,11 @@ assim com frameworks(selenium, restassured, cucumber, robotframework, cypress, p
 
 🚀 TESTES DE PERFORMANCE [Detalhes](http://github.com/antoniogmartins/Performance)
 
-  :key:K6 - Stress/Carga/Pico incluindo o SmokeT)
+  :key:K6 - Stress/Carga/Pico - incluindo o SmokeTest
 
-   :key:Selenium com Java 
+  :key:Jmeter - Stress/Carga/Pico 
       
+🚀 TESTES FUNCIONAIS - Testes na Interface
 
+  :key: Selenium com Java - TestNg
 
