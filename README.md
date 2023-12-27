@@ -51,7 +51,9 @@ assim com frameworks(selenium, restassured, cucumber, robotframework, cypress, p
 
   :key:Jmeter - Stress/Carga/Pico 
       
-🚀 TESTES FUNCIONAIS(Testes na Interface - FrontEnd)
+🚀 TESTES FUNCIONAIS(Testes na Interface - FrontEnd)[Detalhes](https://github.com/antoniogmartins/Services)
 
-  :key: Selenium com Java - TestNg
+  :key: Selenium com Java - TestNg 
+
+
 
