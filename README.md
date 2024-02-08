@@ -56,7 +56,7 @@ assim com frameworks(selenium, restassured, cucumber, robotframework, cypress, p
 
       :Selenium com Java - TestNg 
 
-      :Robot Framework x Python 
+      :Robot Framework x Python (em construção)
 
 
 
