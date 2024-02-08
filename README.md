@@ -32,31 +32,31 @@ assim com frameworks(selenium, restassured, cucumber, robotframework, cypress, p
 
 🚀 TESTES DE SERVIÇOS (API REST) [Detalhes](http://github.com/antoniogmartins/Services)
 
-     :key:Jest/SuperTest
+      : Jest/SuperTest
   
-     :key:Cypress
+      :Cypress
 
-     :key:Robot Framework 
+      :Robot Framework 
 
-     :key:Postman 
+      :Postman 
 
-     :key:Python 
+      :Python 
 
-     :key:RestAssured(Java)
+      :RestAssured(Java)
 
 
 🚀 TESTES DE PERFORMANCE [Detalhes](http://github.com/antoniogmartins/Performance)
 
-     :key:K6 - Stress/Carga/Pico - incluindo o SmokeTest
+      :K6 - Stress/Carga/Pico - incluindo o SmokeTest
 
-     :key:Jmeter - Stress/Carga/Pico 
+      :Jmeter - Stress/Carga/Pico 
      
       
 🚀 TESTES FUNCIONAIS(Testes na Interface - FrontEnd)  [Detalhes](https://github.com/antoniogmartins/Interfaces)
 
-     :key: Selenium com Java - TestNg 
+      : Selenium com Java - TestNg 
 
-     :key: Robot Framework x Python 
+      : Robot Framework x Python 
 
 
 
