@@ -32,7 +32,7 @@ assim com frameworks(selenium, restassured, cucumber, robotframework, cypress, p
 
 🚀 TESTES DE SERVIÇOS (API REST) [Detalhes](http://github.com/antoniogmartins/Services)
 
-      : Jest/SuperTest
+      :Jest/SuperTest
   
       :Cypress
 
@@ -54,9 +54,9 @@ assim com frameworks(selenium, restassured, cucumber, robotframework, cypress, p
       
 🚀 TESTES FUNCIONAIS(Testes na Interface - FrontEnd)  [Detalhes](https://github.com/antoniogmartins/Interfaces)
 
-      : Selenium com Java - TestNg 
+      :Selenium com Java - TestNg 
 
-      : Robot Framework x Python 
+      :Robot Framework x Python 
 
 
 
