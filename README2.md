@@ -1,0 +1,5 @@
+# Sejam bem-vindos!!!
+Olá, me chamo Antonio, 
+
+👨🏻‍💻 Profissional graduado em Sistemas de Informação, Mba em Análise e Gerencia de Projetos de Sistemas com experiência em metodologia ageis, desde a concepção e levantamento de requisitos(historias), uso de bdd, criação de plano de testes, execução de cenários de testes; criação/manutenção de scripts de testes automatizados(Java, Python, K6, Jmeter, Junit, Postman, Selenium, RestAssured), execução de testes funcionais, de aceitação, exploratórios, regressão e de performance(carga/stress/pico) integrados a AWS; execução de testes manuais/automatizados em desktop/web, mobile e aplicativos (iOS e Android); Realização de deploys utilizando o GitActions e Pipelines, Identificação e geração de relatorios de defeitos (bugs); Analise de Logs, Criação de Massa de Dados para realização dos testes, Criador de relatórios de ocorrências, relatórios gerenciais, performance e indicadores de qualidade (erros/falhas), Geração/Analise de Métricas; Elaboração/manutenção de documentação de testes (Jira - Confluence) e Inglês Intermediário
+
